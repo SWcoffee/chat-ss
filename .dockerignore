@@ -1,0 +1,7 @@
+logs/
+tests/
+test/README.md
+log/
+test/
+venv/
+.venv/
